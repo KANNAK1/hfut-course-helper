@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         全自动抢课助手-XX大学专用版 (示例)
+// @name         全自动抢课助手-合肥工业大学专用版
 // @namespace    http://github.com/你的GitHub用户名
 // @version      7.0.1
 // @description  全自动抢课脚本，支持【全校选课】TAB页自动查找课程ID，自动监控、自动点击。解脱双手，无需F12。
@@ -375,5 +375,6 @@
             localStorage.setItem('qk_dim_h', panel.style.height);
         };
     };
+
 
 })();
